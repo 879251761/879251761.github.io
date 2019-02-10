@@ -5,11 +5,11 @@
     <url>%2F2019%2F01%2F10%2Fhello-world%2F</url>
     <content type="text"><![CDATA[Welcome to my blog]]></content>
       <categories>
-        <category>����</category>
+        <category>测试</category>
       </categories>
       <tags>
-        <tag>��ǩ1</tag>
-        <tag>��ǩ2</tag>
+        <tag>标签1</tag>
+        <tag>标签2</tag>
       </tags>
   </entry>
 </search>

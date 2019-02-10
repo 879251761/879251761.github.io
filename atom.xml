@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-02-10T12:25:25.924Z</updated>
+  <updated>2019-02-10T12:57:44.381Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://yoursite.com/2019/01/10/hello-world/"/>
     <id>http://yoursite.com/2019/01/10/hello-world/</id>
     <published>2019-01-10T07:41:13.290Z</published>
-    <updated>2019-02-10T12:25:25.924Z</updated>
+    <updated>2019-02-10T12:57:44.381Z</updated>
     
     <summary type="html">
     
@@ -35,12 +35,12 @@
     
     </summary>
     
-      <category term="����" scheme="http://yoursite.com/categories/%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD/"/>
+      <category term="测试" scheme="http://yoursite.com/categories/%E6%B5%8B%E8%AF%95/"/>
     
     
-      <category term="��ǩ1" scheme="http://yoursite.com/tags/%EF%BF%BD%EF%BF%BDk1/"/>
+      <category term="标签1" scheme="http://yoursite.com/tags/%E6%A0%87%E7%AD%BE1/"/>
     
-      <category term="��ǩ2" scheme="http://yoursite.com/tags/%EF%BF%BD%EF%BF%BDk2/"/>
+      <category term="标签2" scheme="http://yoursite.com/tags/%E6%A0%87%E7%AD%BE2/"/>
     
   </entry>
   

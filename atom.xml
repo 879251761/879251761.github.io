@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Some In Satin</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2019-02-10T12:25:25.924Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>LiuJin</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://yoursite.com/2019/01/10/hello-world/"/>
+    <id>http://yoursite.com/2019/01/10/hello-world/</id>
+    <published>2019-01-10T07:41:13.290Z</published>
+    <updated>2019-02-10T12:25:25.924Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;Welcome to my blog
+        
+      
+    
+    </summary>
+    
+      <category term="����" scheme="http://yoursite.com/categories/%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD/"/>
+    
+    
+      <category term="��ǩ1" scheme="http://yoursite.com/tags/%EF%BF%BD%EF%BF%BDk1/"/>
+    
+      <category term="��ǩ2" scheme="http://yoursite.com/tags/%EF%BF%BD%EF%BF%BDk2/"/>
+    
+  </entry>
+  
+</feed>

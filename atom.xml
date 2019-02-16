@@ -43,20 +43,18 @@
     <link href="http://yoursite.com/2019/01/10/hello-world/"/>
     <id>http://yoursite.com/2019/01/10/hello-world/</id>
     <published>2019-01-10T07:41:13.290Z</published>
-    <updated>2019-02-13T05:37:52.516Z</updated>
+    <updated>2019-02-16T09:53:13.706Z</updated>
     
     <summary type="html">
     
-      &lt;p&gt;Welcome to my blog&lt;br&gt;&lt;img src=&quot;http://bucket_name.qiniudn.com/static/images/one.png&quot;&gt;&lt;br&gt;
+      &lt;p&gt;Welcome to my blog！&lt;br&gt;&lt;img src=&quot;http://pmujma4dr.bkt.clouddn.com/static/images/schaffhausen.jpg&quot; width=&quot;1024&quot; height=&quot;800&quot;&gt;&lt;br&gt;
     
     </summary>
     
       <category term="测试" scheme="http://yoursite.com/categories/%E6%B5%8B%E8%AF%95/"/>
     
     
-      <category term="标签1" scheme="http://yoursite.com/tags/%E6%A0%87%E7%AD%BE1/"/>
-    
-      <category term="标签2" scheme="http://yoursite.com/tags/%E6%A0%87%E7%AD%BE2/"/>
+      <category term="测试" scheme="http://yoursite.com/tags/%E6%B5%8B%E8%AF%95/"/>
     
   </entry>
   

@@ -8,13 +8,12 @@
   <entry>
     <title><![CDATA[Hello World]]></title>
     <url>%2F2019%2F01%2F10%2Fhello-world%2F</url>
-    <content type="text"><![CDATA[Welcome to my blog1111111111111111111111]]></content>
+    <content type="text"><![CDATA[Welcome to my blog！]]></content>
       <categories>
         <category>测试</category>
       </categories>
       <tags>
-        <tag>标签1</tag>
-        <tag>标签2</tag>
+        <tag>测试</tag>
       </tags>
   </entry>
 </search>

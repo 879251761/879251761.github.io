@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-03-22T13:09:58.126Z</updated>
+  <updated>2019-03-22T13:17:36.262Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://yoursite.com/2019/03/22/Mysql%E5%9F%BA%E6%9C%AC%E7%94%A8%E6%B3%95/"/>
     <id>http://yoursite.com/2019/03/22/Mysql基本用法/</id>
     <published>2019-03-22T12:56:56.000Z</published>
-    <updated>2019-03-22T13:09:58.126Z</updated>
+    <updated>2019-03-22T13:17:36.262Z</updated>
     
     <summary type="html">
     
@@ -32,6 +32,8 @@
 &lt;p&gt;#选择数据库&lt;br&gt;&lt;code&gt;use examples;&lt;/code&gt;&lt;br&gt;
     
     </summary>
+    
+      <category term="Mysql" scheme="http://yoursite.com/categories/Mysql/"/>
     
     
       <category term="Mysql" scheme="http://yoursite.com/tags/Mysql/"/>

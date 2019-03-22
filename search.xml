@@ -4,6 +4,9 @@
     <title><![CDATA[Mysql基本用法]]></title>
     <url>%2F2019%2F03%2F22%2FMysql%E5%9F%BA%E6%9C%AC%E7%94%A8%E6%B3%95%2F</url>
     <content type="text"><![CDATA[#登录数据库mysql -hlocalhost -uroot -p; #修改密码mysqladmin -uroot -pold password new; #显示数据库show databases; #显示数据表show tables; #选择数据库use examples; #创建数据库并设置编码utf-8 多语言create database &#39;examples&#39; default character set utf8 collate utf8_general_ci; #删除数据库drop database examples; #创建表1234567create table test( id int(10) unsigned zerofill not null auto_increment, email varchar(40) not null, ip varchar(15) not null, state int(10) not null default &apos;-1&apos;, primary key (id))engine=InnoDB; #显示表结构describe #删除表drop table test； #重命名表alter table test_old rename test_new; #添加列alter table test add cn int(4) not null; #修改列alter table test change id id1 varchar(10) not null; #删除列alter table test drop cn; #创建索引alter table test add index (cn,id); #删除索引alter table test drop index cn #插入数据insert into test (id,email,ip,state) values(2,&#39;qq@qq.com&#39;,&#39;127.0.0.1&#39;,&#39;0&#39;); #删除数据delete from test where id = 1; #修改数据update test set id=&#39;1&#39;,email=&#39;q@qq.com&#39; where id=1; #查数据select * from test; #取所有数据select * from test limit 0,2; #取前两条数据select * from test email like &#39;%qq%&#39; #查含有qq字符 _表示一个 %表示多个select * from test order by id asc; #降序descselect * from test id not in(&#39;2&#39;,&#39;3&#39;); #id不含2,3或者去掉not表示含有select * from test timer between 1 and 10; #数据在1,10之间]]></content>
+      <categories>
+        <category>Mysql</category>
+      </categories>
       <tags>
         <tag>Mysql</tag>
       </tags>

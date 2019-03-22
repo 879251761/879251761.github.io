@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-03-14T14:57:27.319Z</updated>
+  <updated>2019-03-22T13:09:58.126Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Mysql基本用法</title>
+    <link href="http://yoursite.com/2019/03/22/Mysql%E5%9F%BA%E6%9C%AC%E7%94%A8%E6%B3%95/"/>
+    <id>http://yoursite.com/2019/03/22/Mysql基本用法/</id>
+    <published>2019-03-22T12:56:56.000Z</published>
+    <updated>2019-03-22T13:09:58.126Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;#登录数据库&lt;br&gt;&lt;code&gt;mysql -hlocalhost -uroot -p;&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;#修改密码&lt;br&gt;&lt;code&gt;mysqladmin -uroot -pold password new;&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;#显示数据库&lt;br&gt;&lt;code&gt;show databases;&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;#显示数据表&lt;br&gt;&lt;code&gt;show tables;&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;#选择数据库&lt;br&gt;&lt;code&gt;use examples;&lt;/code&gt;&lt;br&gt;
+    
+    </summary>
+    
+    
+      <category term="Mysql" scheme="http://yoursite.com/tags/Mysql/"/>
+    
+  </entry>
   
   <entry>
     <title>两个人的世界</title>

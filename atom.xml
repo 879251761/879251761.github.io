@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-01-08T13:15:59.815Z</updated>
+  <updated>2020-01-08T13:15:43.222Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,26 +15,6 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>线性结构（笔记）</title>
-    <link href="http://yoursite.com/2020/01/03/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E7%AC%94%E8%AE%B0/"/>
-    <id>http://yoursite.com/2020/01/03/数据结构笔记/</id>
-    <published>2020-01-03T08:33:27.000Z</published>
-    <updated>2020-01-08T13:15:59.815Z</updated>
-    
-    <summary type="html">
-    
-      &lt;h1 id=&quot;线性表&quot;&gt;&lt;a href=&quot;#线性表&quot; class=&quot;headerlink&quot; title=&quot;线性表&quot;&gt;&lt;/a&gt;线性表&lt;/h1&gt;&lt;h2 id=&quot;抽象数据类型描述&quot;&gt;&lt;a href=&quot;#抽象数据类型描述&quot; class=&quot;headerlink&quot; title=&quot;抽象数据类型描述&quot;&gt;&lt;/a&gt;抽象数据类型描述&lt;/h2&gt;&lt;p&gt;1、List MakeEmpty()：初始化一个空线性表L；&lt;br&gt;2、ElementType FindKth( int K, List L )：根据位序K，返回相应元素 ；&lt;br&gt;3、int Find( ElementType X, List L )：在线性表L中查找X的第一次出现位置；&lt;br&gt;4、void Insert( ElementType X, int i, List L)：在位序i前插入一个新元素X；&lt;br&gt;5、void Delete( int  i, List L )：删除指定位序i的元素；&lt;br&gt;6、int Length( List L )：返回线性表L的长度n。&lt;br&gt;
-    
-    </summary>
-    
-      <category term="data Structure" scheme="http://yoursite.com/categories/data-Structure/"/>
-    
-    
-      <category term="data Structure" scheme="http://yoursite.com/tags/data-Structure/"/>
-    
-  </entry>
   
   <entry>
     <title>线性结构（笔记）</title>

@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-01-08T13:15:43.222Z</updated>
+  <updated>2020-01-08T13:28:34.739Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -21,11 +21,11 @@
     <link href="http://yoursite.com/2020/01/03/%E7%BA%BF%E6%80%A7%E7%BB%93%E6%9E%84%EF%BC%88%E7%AC%94%E8%AE%B0%EF%BC%89/"/>
     <id>http://yoursite.com/2020/01/03/线性结构（笔记）/</id>
     <published>2020-01-03T08:33:27.000Z</published>
-    <updated>2020-01-08T13:15:43.222Z</updated>
+    <updated>2020-01-08T13:28:34.739Z</updated>
     
     <summary type="html">
     
-      &lt;h1 id=&quot;线性表&quot;&gt;&lt;a href=&quot;#线性表&quot; class=&quot;headerlink&quot; title=&quot;线性表&quot;&gt;&lt;/a&gt;线性表&lt;/h1&gt;&lt;h2 id=&quot;抽象数据类型描述&quot;&gt;&lt;a href=&quot;#抽象数据类型描述&quot; class=&quot;headerlink&quot; title=&quot;抽象数据类型描述&quot;&gt;&lt;/a&gt;抽象数据类型描述&lt;/h2&gt;&lt;p&gt;1、List MakeEmpty()：初始化一个空线性表L；&lt;br&gt;2、ElementType FindKth( int K, List L )：根据位序K，返回相应元素 ；&lt;br&gt;3、int Find( ElementType X, List L )：在线性表L中查找X的第一次出现位置；&lt;br&gt;4、void Insert( ElementType X, int i, List L)：在位序i前插入一个新元素X；&lt;br&gt;5、void Delete( int  i, List L )：删除指定位序i的元素；&lt;br&gt;6、int Length( List L )：返回线性表L的长度n。&lt;br&gt;
+      &lt;h1 id=&quot;线性表&quot;&gt;&lt;a href=&quot;#线性表&quot; class=&quot;headerlink&quot; title=&quot;线性表&quot;&gt;&lt;/a&gt;线性表&lt;/h1&gt;&lt;h2 id=&quot;抽象数据类型描述&quot;&gt;&lt;a href=&quot;#抽象数据类型描述&quot; class=&quot;headerlink&quot; title=&quot;抽象数据类型描述&quot;&gt;&lt;/a&gt;抽象数据类型描述&lt;/h2&gt;&lt;p&gt;1、&lt;code&gt;List MakeEmpty()&lt;/code&gt;：初始化一个空线性表L；&lt;br&gt;2、&lt;code&gt;ElementType FindKth( int K, List L )&lt;/code&gt;：根据位序K，返回相应元素 ；&lt;br&gt;3、&lt;code&gt;int Find( ElementType X, List L )&lt;/code&gt;：在线性表L中查找X的第一次出现位置；&lt;br&gt;4、&lt;code&gt;void Insert( ElementType X, int i, List L)&lt;/code&gt;：在位序i前插入一个新元素X；&lt;br&gt;5、&lt;code&gt;void Delete( int  i, List L )&lt;/code&gt;：删除指定位序i的元素；&lt;br&gt;6、&lt;code&gt;int Length( List L )&lt;/code&gt;：返回线性表L的长度n。&lt;br&gt;
     
     </summary>
     
